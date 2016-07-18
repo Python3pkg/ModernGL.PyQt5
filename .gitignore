@@ -1,0 +1,12 @@
+__pycache__
+*.pyo
+*.pyc
+*.pyd
+
+build
+dist
+
+log.txt
+files.txt
+*.egg-info
+MANIFEST
